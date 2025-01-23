@@ -27,10 +27,9 @@ The dataset used in this project (`Position_Salaries.csv`) contains the followin
 
 The scatter plots show that the **Linear Regression** model underfits the data due to its simplicity. In contrast, the **Polynomial Regression** model captures the complex non-linear relationships in the data, resulting in a better fit.  
 
-## How to Run  
 
 ### Prerequisites  
-Make sure you have Python 3.x installed and the following libraries:  
+dependancy used to run this model:  
 - `NumPy`  
 - `Pandas`  
 - `Matplotlib`  
